@@ -7,7 +7,7 @@
 #### Characteristics:
 * Snake: Controlled by the keys.
 * Apple: Appears randomly on the screen and increases the score when is eaten by the snake.
-* Score: Increases by the number of apples eaten by the snake
+* Score: Increases by the number of apples eaten by the snake.
 * Obstacles: The snake must avoid them so he won't die.
 
 
@@ -24,4 +24,4 @@
 
 
 #### Known Issues
-* Occasionally, the snake may teleport from one edge of the screen to another instead of colliding with the edges.
+* Occasionally the snake may teleport from one edge of the screen to another instead of colliding with the edges.
