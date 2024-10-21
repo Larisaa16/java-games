@@ -21,7 +21,4 @@
 * Arrow Down (↓): Moves the snake down.
 * Arrow Left (←): Moves the snake left.
 * Arrow Right (→): Moves the snake right.
-
-
-#### Known Issues
-* Occasionally the snake may teleport from one edge of the screen to another instead of colliding with the edges.
+* The snake may teleport from one edge of the screen to another instead of colliding with the edges.
