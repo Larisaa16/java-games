@@ -9,6 +9,8 @@
 * Apple: Appears randomly on the screen and increases the score when is eaten by the snake.
 * Score: Increases by the number of apples eaten by the snake.
 * Obstacles: The snake must avoid them so he won't die.
+* * The snake is teleporting from one edge of the screen to another instead of colliding with the edges.
+
 
 
 #### The game consists in 3 classes:
@@ -21,4 +23,3 @@
 * Arrow Down (↓): Moves the snake down.
 * Arrow Left (←): Moves the snake left.
 * Arrow Right (→): Moves the snake right.
-* The snake is teleporting from one edge of the screen to another instead of colliding with the edges.
